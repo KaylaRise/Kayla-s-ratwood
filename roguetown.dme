@@ -866,6 +866,7 @@
 #include "code\game\objects\items\rogueitems\bombs.dm"
 #include "code\game\objects\items\rogueitems\books.dm"
 #include "code\game\objects\items\rogueitems\boulder.dm"
+#include "code\game\objects\items\rogueitems\carrot.dm"
 #include "code\game\objects\items\rogueitems\coins.dm"
 #include "code\game\objects\items\rogueitems\cup.dm"
 #include "code\game\objects\items\rogueitems\devices.dm"
